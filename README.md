@@ -57,6 +57,4 @@ Em seguida, o sistema exibe os dados da pessoa cadastrada de forma formatada.
 
 - Java 8 ou superior
 
-## Licença
 
-Este
